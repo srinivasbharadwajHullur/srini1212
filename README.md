@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 <br />
 
-[![Spotify](https://novatorem-taupe-two.vercel.app/api/spotify)](https://open.spotify.com/f30envtd5f5si5ejt7ub4bhg6)
+[![Spotify](https://f30envtd5f5si5ejt7ub4bhg6.vercel.app/api/spotify)](https://open.spotify.com/f30envtd5f5si5ejt7ub4bhg6)
 
 
 

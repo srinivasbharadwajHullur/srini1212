@@ -13,9 +13,12 @@ Here are some ideas to get you started: -->
 <br />
 
 
-### Spotify Playing
-[<img src="https://novatorem-srini1212.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" height="400" />]
-(https://open.spotify.com/user/f30envtd5f5si5ejt7ub4bhg6)
+ 
+
+
+[![Spotify](https://now-playing-srini1212.vercel.app/api/spotify)](https://open.spotify.com/user/f30envtd5f5si5ejt7ub4bhg6)
+
+
 
 
 

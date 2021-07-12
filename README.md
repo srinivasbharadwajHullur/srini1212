@@ -17,11 +17,11 @@ Here are some ideas to get you started: -->
 
 
  
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [![Spotify](https://now-playing-srini1212.vercel.app/api/spotify)](https://open.spotify.com/user/f30envtd5f5si5ejt7ub4bhg6)
 
-<hr />
+<hr /> -->
 
 <p>
 

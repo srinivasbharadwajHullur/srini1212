@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 ### 🤵 About Me:
 - 🔭 I’m currently working on Front End Development & Data Structures and algorithms. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning App Development.
+- 🌱 I’m currently learning Python Back End Development.
 <br />
 <hr />
 

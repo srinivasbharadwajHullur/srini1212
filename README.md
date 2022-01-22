@@ -7,10 +7,6 @@ Here are some ideas to get you started: -->
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srinivas Bharadwaj;+Front End Developer;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
-</p>
-
 
 ### 🤵 About Me:
 - 🔭 I’m currently working on Front End Development & Data Structures and algorithms. 

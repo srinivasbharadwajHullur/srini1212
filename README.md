@@ -32,7 +32,7 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="http://localhost:8000/skills-assets/python-original.svg" alt="Python" height="50" />  
